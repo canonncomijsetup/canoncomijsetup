@@ -8,7 +8,7 @@ Canon printers are the most powerful tools for reliable and effective printing w
 
 |
 
-.. image:: stars.jpg
+.. image:: click-here.png
     :width: 300px
     :align: center
     :height: 100px
